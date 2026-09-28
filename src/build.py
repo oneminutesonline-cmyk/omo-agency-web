@@ -45,7 +45,7 @@ def posts_html(lang):
     return ''.join(out)
 
 def li_html(lang):
-    posts = sorted(LIPOSTS, key=lambda p: p['date'], reverse=True)[:LI_MAX]
+    posts = sorted([dict(q, images=[s for s in q['images'] if os.path.exists(P(s))]) for q in LIPOSTS], key=lambda p: p['date'], reverse=True)[:LI_MAX]
     if not posts: return ''
     cards = []
     for p in posts:
