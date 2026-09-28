@@ -1,0 +1,1102 @@
+{
+ "nav_metodo": {
+  "it": "Metodo",
+  "es": "Método",
+  "en": "Method"
+ },
+ "nav_chisiamo": {
+  "it": "Chi siamo",
+  "es": "Quiénes somos",
+  "en": "About"
+ },
+ "nav_servizi": {
+  "it": "Servizi",
+  "es": "Servicios",
+  "en": "Services"
+ },
+ "nav_piattaforme": {
+  "it": "Piattaforme",
+  "es": "Plataformas",
+  "en": "Platforms"
+ },
+ "nav_clienti": {
+  "it": "Clienti",
+  "es": "Clientes",
+  "en": "Clients"
+ },
+ "nav_blog": {
+  "it": "Blog",
+  "es": "Blog",
+  "en": "Blog"
+ },
+ "nav_cta": {
+  "it": "Richiedi una consulenza",
+  "es": "Solicita una consultoría",
+  "en": "Book a consultation"
+ },
+ "nav_menuLabel": {
+  "it": "Apri il menu",
+  "es": "Abrir el menú",
+  "en": "Open menu"
+ },
+ "hero_eyebrow": {
+  "it": "OMO Agency · sistemi per l'edilizia",
+  "es": "OMO Agency · sistemas para la construcción",
+  "en": "OMO Agency · systems for construction"
+ },
+ "hero_num": {
+  "it": "60.000",
+  "es": "60.000",
+  "en": "60,000"
+ },
+ "hero_h1_suffix": {
+  "it": " risparmiati in un anno. Non con un software nuovo, con un sistema solo al posto di cinque.",
+  "es": " ahorrados en un año. No con un software nuevo, con un sistema único en lugar de cinco.",
+  "en": " saved in one year. Not with new software, with one system instead of five."
+ },
+ "hero_sub": {
+  "it": "Consulenza strategica e software su misura per imprese di costruzione da almeno 10 dipendenti, in Spagna e Italia. Documenti, piattaforme CAE, cantieri e personale: un sistema unico, non un altro strumento scollegato da aggiungere agli altri.",
+  "es": "Consultoría estratégica y software a medida para empresas de construcción de al menos 10 empleados, en España e Italia. Documentos, plataformas CAE, obras y personal: un sistema único, no otra herramienta más que añadir a las demás.",
+  "en": "Strategic consulting and custom software for construction companies with 10+ employees, in Spain and Italy. Documents, CAE platforms, job sites and staff: one system, not another disconnected tool added to the pile."
+ },
+ "hero_cta_primary": {
+  "it": "Richiedi una consulenza",
+  "es": "Solicita una consultoría",
+  "en": "Book a consultation"
+ },
+ "hero_cta_ghost": {
+  "it": "Guarda le piattaforme",
+  "es": "Ver las plataformas",
+  "en": "See the platforms"
+ },
+ "hero_stat1": {
+  "it": "processi uniti in un sistema",
+  "es": "procesos unidos en un sistema",
+  "en": "processes merged into one system"
+ },
+ "hero_stat2": {
+  "it": "persone nel team",
+  "es": "personas en el equipo",
+  "en": "people on the team"
+ },
+ "hero_stat3": {
+  "it": "del costo di un sistema da zero",
+  "es": "del coste de un sistema desde cero",
+  "en": "of the cost of building from scratch"
+ },
+ "hero_scenetag": {
+  "it": "schema <b>sistema&nbsp;OMO</b> · 5 processi → 1 core",
+  "es": "esquema <b>sistema&nbsp;OMO</b> · 5 procesos → 1 núcleo",
+  "en": "diagram <b>OMO&nbsp;system</b> · 5 processes → 1 core"
+ },
+ "svg_revisioni": {
+  "it": "Revisioni",
+  "es": "Revisiones",
+  "en": "Check-ups"
+ },
+ "svg_appuntamenti": {
+  "it": "Appuntamenti",
+  "es": "Citas",
+  "en": "Appointments"
+ },
+ "svg_assenze": {
+  "it": "Assenze",
+  "es": "Ausencias",
+  "en": "Absences"
+ },
+ "svg_corsi": {
+  "it": "Corsi",
+  "es": "Cursos",
+  "en": "Training"
+ },
+ "svg_sicurezza": {
+  "it": "Sicurezza",
+  "es": "Seguridad",
+  "en": "Safety"
+ },
+ "mq_1": {
+  "it": "un sistema",
+  "es": "un sistema",
+  "en": "one system"
+ },
+ "mq_1b": {
+  "it": " non dieci",
+  "es": ", no diez",
+  "en": ", not ten"
+ },
+ "mq_2": {
+  "it": "numeri",
+  "es": "números",
+  "en": "numbers"
+ },
+ "mq_2b": {
+  "it": " come prova",
+  "es": " como prueba",
+  "en": " as proof"
+ },
+ "mq_3": {
+  "it": "validato",
+  "es": "validado",
+  "en": "validated"
+ },
+ "mq_3b": {
+  "it": " su scala multinazionale",
+  "es": " a escala multinacional",
+  "en": " at multinational scale"
+ },
+ "mq_4": {
+  "it": "integrato",
+  "es": "integrado",
+  "en": "integrated"
+ },
+ "mq_4b": {
+  "it": " ai sistemi esistenti",
+  "es": " con los sistemas existentes",
+  "en": " with existing systems"
+ },
+ "mq_5": {
+  "it": "edilizia &amp; costruzioni",
+  "es": "construcción &amp; obra civil",
+  "en": "construction &amp; building"
+ },
+ "stat1_n": {
+  "it": "60.000&nbsp;&euro;",
+  "es": "60.000&nbsp;&euro;",
+  "en": "&euro;60,000"
+ },
+ "stat1_d": {
+  "it": "risparmiati ogni anno da un cliente grazie a un processo automatizzato",
+  "es": "ahorrados cada año por un cliente gracias a un proceso automatizado",
+  "en": "saved every year by one client through an automated process"
+ },
+ "stat2_n": {
+  "it": "7.000",
+  "es": "7.000",
+  "en": "7,000"
+ },
+ "stat2_d": {
+  "it": "punti vendita allineati via SAP, progetto ENEL Italia e Brasile",
+  "es": "puntos de venta alineados vía SAP, proyecto ENEL Italia y Brasil",
+  "en": "points of sale aligned via SAP, ENEL project in Italy and Brazil"
+ },
+ "stat3_n": {
+  "it": "57.000",
+  "es": "57.000",
+  "en": "57,000"
+ },
+ "stat3_d": {
+  "it": "punti vendita analizzati per il controllo qualità, per un player internazionale del gaming",
+  "es": "puntos de venta analizados para el control de calidad, para un operador internacional del gaming",
+  "en": "points of sale analyzed for quality control, for an international gaming operator"
+ },
+ "stat4_d": {
+  "it": "il costo tipico di un sistema equivalente costruito da zero",
+  "es": "el coste típico de un sistema equivalente construido desde cero",
+  "en": "the typical cost of an equivalent system built from scratch"
+ },
+ "metodo_eyebrow": {
+  "it": "Il metodo",
+  "es": "El método",
+  "en": "The method"
+ },
+ "metodo_h2": {
+  "it": "Da cinque processi scollegati, a uno solo.",
+  "es": "De cinco procesos desconectados, a uno solo.",
+  "en": "From five disconnected processes, to one."
+ },
+ "metodo_sub": {
+  "it": "Prima di essere un software, è un lavoro di analisi: si guarda cosa un'impresa gestisce a mano, persona per persona, e si unisce tutto in un unico sistema.",
+  "es": "Antes de ser un software, es un trabajo de análisis: se observa qué gestiona una empresa a mano, persona por persona, y se une todo en un único sistema.",
+  "en": "Before it's software, it's an analysis job: we look at what a company manages by hand, person by person, and merge it all into one system."
+ },
+ "metodo_li1": {
+  "it": "Revisioni mediche gestite a telefono, un lavoratore alla volta",
+  "es": "Revisiones médicas gestionadas por teléfono, un trabajador a la vez",
+  "en": "Medical check-ups managed by phone, one worker at a time"
+ },
+ "metodo_li2": {
+  "it": "Appuntamenti presi a mano, senza un calendario comune",
+  "es": "Citas concertadas a mano, sin un calendario común",
+  "en": "Appointments booked by hand, with no shared calendar"
+ },
+ "metodo_li3": {
+  "it": "Assenze tracciate su fogli diversi per ogni cantiere",
+  "es": "Ausencias registradas en hojas distintas para cada obra",
+  "en": "Absences tracked on different spreadsheets for every job site"
+ },
+ "metodo_li4": {
+  "it": "Corsi di formazione da ricordare uno per uno",
+  "es": "Cursos de formación que hay que recordar uno por uno",
+  "en": "Training courses to keep track of one by one"
+ },
+ "metodo_li5": {
+  "it": "Documenti di sicurezza rincorsi cantiere per cantiere",
+  "es": "Documentos de seguridad perseguidos obra por obra",
+  "en": "Safety documents chased down site by site"
+ },
+ "cmp_before": {
+  "it": "Prima",
+  "es": "Antes",
+  "en": "Before"
+ },
+ "cmp_after": {
+  "it": "Con OMO",
+  "es": "Con OMO",
+  "en": "With OMO"
+ },
+ "cmp_tile1": {
+  "it": "revisioni_mediche_v3_FINAL.xlsx",
+  "es": "revisiones_medicas_v3_FINAL.xlsx",
+  "en": "medical_checkups_v3_FINAL.xlsx"
+ },
+ "cmp_tile2": {
+  "it": "whatsapp: \"chi manca ai corsi?\"",
+  "es": "whatsapp: \"¿quién falta a los cursos?\"",
+  "en": "whatsapp: \"who's missing from training?\""
+ },
+ "cmp_tile3": {
+  "it": "assenze_cantiere_madrid.xlsx",
+  "es": "ausencias_obra_madrid.xlsx",
+  "en": "absences_madrid_site.xlsx"
+ },
+ "cmp_tile4": {
+  "it": "promemoria: scade CAE giovedì",
+  "es": "recordatorio: el CAE caduca el jueves",
+  "en": "reminder: CAE expires Thursday"
+ },
+ "cmp_tile5": {
+  "it": "documenti_sicurezza (12)",
+  "es": "documentos_seguridad (12)",
+  "en": "safety_documents (12)"
+ },
+ "cmp_tile6": {
+  "it": "appuntamenti_da_confermare.docx",
+  "es": "citas_por_confirmar.docx",
+  "en": "appointments_to_confirm.docx"
+ },
+ "cmp_afterbig": {
+  "it": "&#9679; tutto allineato",
+  "es": "&#9679; todo alineado",
+  "en": "&#9679; everything aligned"
+ },
+ "cmp_aftersmall": {
+  "it": "un sistema, non sei file sparsi",
+  "es": "un sistema, no seis archivos sueltos",
+  "en": "one system, not six scattered files"
+ },
+ "bio_role": {
+  "it": "Fondatrice",
+  "es": "Fundadora",
+  "en": "Founder"
+ },
+ "bio_eyebrow": {
+  "it": "Chi c'è dietro OMO",
+  "es": "Quién está detrás de OMO",
+  "en": "Who's behind OMO"
+ },
+ "bio_p1": {
+  "it": "<strong>Eleonora Saccucci</strong>, fondatrice di OMO Agency (novembre 2025). Prima lavorava dentro EdiliziAcrobatica, con tre colleghi: a mano, gestivano decine di micro processi separati, revisioni mediche, appuntamenti, assenze, corsi di formazione, documenti di sicurezza. Ognuno scollegato dall'altro.",
+  "es": "<strong>Eleonora Saccucci</strong>, fundadora de OMO Agency (noviembre de 2025). Antes trabajaba dentro de EdiliziAcrobatica, con tres compañeros: a mano, gestionaban decenas de micro procesos separados, revisiones médicas, citas, ausencias, cursos de formación, documentos de seguridad. Cada uno desconectado del resto.",
+  "en": "<strong>Eleonora Saccucci</strong>, founder of OMO Agency (November 2025). She previously worked inside EdiliziAcrobatica, with three colleagues: by hand, they managed dozens of separate micro processes, medical check-ups, appointments, absences, training courses, safety documents. Each one disconnected from the rest."
+ },
+ "bio_p2": {
+  "it": "Li ha uniti in un unico sistema, l'ha costruito e validato dentro quella stessa multinazionale, e gliel'ha rivenduto. Solo dopo lo ha proposto ad altre imprese. Oggi lavora da remoto, con clienti in tutta la Spagna e in Italia, nel settore delle costruzioni.",
+  "es": "Los unió en un único sistema, lo construyó y lo validó dentro de esa misma multinacional, y se lo vendió. Solo después lo propuso a otras empresas. Hoy trabaja en remoto, con clientes en toda España y en Italia, en el sector de la construcción.",
+  "en": "She merged them into one system, built and validated it inside that same multinational, and sold it back to them. Only after that did she offer it to other companies. Today she works remotely, with clients across Spain and Italy, in the construction sector."
+ },
+ "bio_quote": {
+  "it": "&ldquo;Il problema non è mai solo il documento da caricare. È il costo nascosto di avere una persona dedicata a ogni piccolo processo scollegato.&rdquo;",
+  "es": "&ldquo;El problema nunca es solo el documento que hay que subir. Es el coste oculto de tener a una persona dedicada a cada pequeño proceso desconectado.&rdquo;",
+  "en": "&ldquo;The problem is never just the document you have to upload. It's the hidden cost of having one person dedicated to every small, disconnected process.&rdquo;"
+ },
+ "bio_cred1": {
+  "it": "Consultora",
+  "es": "Consultora",
+  "en": "Consultant"
+ },
+ "bio_cred2": {
+  "it": "OMO Agency &middot; CM Digital S.R.L.S.",
+  "es": "OMO Agency &middot; CM Digital S.R.L.S.",
+  "en": "OMO Agency &middot; CM Digital S.R.L.S."
+ },
+ "bio_cred3": {
+  "it": "Spagna &amp; Italia &middot; full remoto",
+  "es": "España e Italia &middot; 100% remoto",
+  "en": "Spain &amp; Italy &middot; fully remote"
+ },
+ "servizi_eyebrow": {
+  "it": "Cosa facciamo",
+  "es": "Qué hacemos",
+  "en": "What we do"
+ },
+ "servizi_h2": {
+  "it": "Un macro processo, non dieci scollegati",
+  "es": "Un macro proceso, no diez desconectados",
+  "en": "One system, not ten disconnected tools"
+ },
+ "servizi_sub": {
+  "it": "Ogni servizio nasce per sostituire una persona a tempo pieno dedicata a un solo compito, con un sistema che lo fa insieme agli altri.",
+  "es": "Cada servicio nace para sustituir a una persona a tiempo completo dedicada a una sola tarea, con un sistema que la hace junto a las demás.",
+  "en": "Every service is built to replace one full-time person dedicated to a single task, with a system that handles it alongside the rest."
+ },
+ "svc01_title": {
+  "it": "Gestione documentale lavoratori",
+  "es": "Gestión documental de trabajadores",
+  "en": "Worker document management"
+ },
+ "svc01_desc": {
+  "it": "Documenti sempre aggiornati e reperibili, senza rincorrerli cantiere per cantiere.",
+  "es": "Documentos siempre actualizados y localizables, sin perseguirlos obra por obra.",
+  "en": "Documents always up to date and easy to find, without chasing them site by site."
+ },
+ "svc02_title": {
+  "it": "Onboarding &amp; offboarding",
+  "es": "Onboarding y offboarding",
+  "en": "Onboarding &amp; offboarding"
+ },
+ "svc02_desc": {
+  "it": "Entrata e uscita dei lavoratori dalle piattaforme dei clienti, gestita senza colli di bottiglia.",
+  "es": "Alta y baja de trabajadores en las plataformas de los clientes, gestionada sin cuellos de botella.",
+  "en": "Workers entering and leaving client platforms, handled with no bottlenecks."
+ },
+ "svc03_title": {
+  "it": "Piattaforme CAE",
+  "es": "Plataformas CAE",
+  "en": "CAE platforms"
+ },
+ "svc03_desc": {
+  "it": "Obralia, Nalanda, eCordina, Civit e le altre: regole diverse, un solo flusso di lavoro.",
+  "es": "Obralia, Nalanda, eCordina, Civit y las demás: reglas distintas, un solo flujo de trabajo.",
+  "en": "Obralia, Nalanda, eCordina, Civit and the rest: different rules, one single workflow."
+ },
+ "svc04_title": {
+  "it": "Documentazione di cantiere",
+  "es": "Documentación de obra",
+  "en": "Site documentation"
+ },
+ "svc04_desc": {
+  "it": "Dalla apertura del centro di lavoro alla chiusura, tracciata e pronta per un controllo.",
+  "es": "Desde la apertura del centro de trabajo hasta el cierre, trazada y lista para una inspección.",
+  "en": "From opening the work site to closing it, tracked and ready for an inspection."
+ },
+ "svc05_title": {
+  "it": "Ore, planning, costi",
+  "es": "Horas, planificación, costes",
+  "en": "Hours, scheduling, costs"
+ },
+ "svc05_desc": {
+  "it": "Ore lavorate, pianificazione delle opere e costi reali, in un solo posto invece che in tre.",
+  "es": "Horas trabajadas, planificación de las obras y costes reales, en un solo lugar en vez de en tres.",
+  "en": "Hours worked, project scheduling and real costs, in one place instead of three."
+ },
+ "svc06_title": {
+  "it": "Adozione AI per l'edilizia",
+  "es": "Adopción de IA para la construcción",
+  "en": "AI adoption for construction"
+ },
+ "svc06_desc": {
+  "it": "Consulenza strategica e formazione per portare l'automazione dentro processi reali, non demo.",
+  "es": "Consultoría estratégica y formación para llevar la automatización a procesos reales, no a una demo.",
+  "en": "Strategic consulting and training to bring automation into real processes, not a demo."
+ },
+ "piatt_eyebrow": {
+  "it": "Le piattaforme",
+  "es": "Las plataformas",
+  "en": "The platforms"
+ },
+ "piatt_h2": {
+  "it": "Software costruito per un problema vero, non per un demo day",
+  "es": "Software construido para un problema real, no para un demo day",
+  "en": "Software built for a real problem, not a demo day"
+ },
+ "piatt_sub": {
+  "it": "Quattro esempi di quello che costruiamo: nascono da un processo che qualcuno gestiva a mano, dentro un'impresa vera. Ogni scheda si apre e mostra la logica di fondo, non i dettagli tecnici che restano riservati ai clienti.",
+  "es": "Cuatro ejemplos de lo que construimos: nacen de un proceso que alguien gestionaba a mano, dentro de una empresa real. Cada ficha se abre y muestra la lógica de fondo, no los detalles técnicos que permanecen reservados a los clientes.",
+  "en": "Four examples of what we build: each one grew out of a process someone was managing by hand, inside a real company. Every card opens to show the underlying logic, not the technical detail, which stays confidential to clients."
+ },
+ "piatt_demonav": {
+  "it": "Vai alla demo",
+  "es": "Ir a la demo",
+  "en": "Jump to demo"
+ },
+ "platform_cta": {
+  "it": "Come funziona",
+  "es": "Cómo funciona",
+  "en": "How it works"
+ },
+ "platform_detailh4": {
+  "it": "Come funziona, in sintesi",
+  "es": "Cómo funciona, en resumen",
+  "en": "How it works, in short"
+ },
+ "scaf_kicker": {
+  "it": "Scaffolding &middot; misurazione &amp; preventivo",
+  "es": "Andamios &middot; medición y presupuesto",
+  "en": "Scaffolding &middot; measurement &amp; quote"
+ },
+ "scaf_desc": {
+  "it": "Sistema operativo per aziende di andamios (ponteggi): dalla misurazione della facciata al preventivo, all'ordine di lavoro, fino al dashboard. La misurazione parte da un'analisi geometrica dell'edificio, non da un metro a mano.",
+  "es": "Sistema operativo para empresas de andamios: desde la medición de la fachada hasta el presupuesto, la orden de trabajo y el panel de control. La medición parte de un análisis geométrico del edificio, no de un metro manual.",
+  "en": "Operating system for scaffolding companies: from facade measurement to quote, work order and dashboard. The measurement starts from a geometric analysis of the building, not a tape measure."
+ },
+ "scaf_li1": {
+  "it": "Misurazione facciata assistita, con superficie reale vs superficie di preventivo",
+  "es": "Medición de fachada asistida, con superficie real frente a superficie de presupuesto",
+  "en": "Assisted facade measurement, with real surface vs. quoted surface"
+ },
+ "scaf_li2": {
+  "it": "Indice di complessità calcolato su balconi e cornici",
+  "es": "Índice de complejidad calculado sobre balcones y cornisas",
+  "en": "Complexity index calculated from balconies and cornices"
+ },
+ "scaf_li3": {
+  "it": "Preventivo e ordine di lavoro generati dallo stesso dato",
+  "es": "Presupuesto y orden de trabajo generados a partir del mismo dato",
+  "en": "Quote and work order generated from the same data"
+ },
+ "scaf_mockai": {
+  "it": "&#10022; intelligenza artificiale",
+  "es": "&#10022; inteligencia artificial",
+  "en": "&#10022; artificial intelligence"
+ },
+ "scaf_step1": {
+  "it": "1 Misurazione",
+  "es": "1 Medición",
+  "en": "1 Measurement"
+ },
+ "scaf_step2": {
+  "it": "2 Preventivo",
+  "es": "2 Presupuesto",
+  "en": "2 Quote"
+ },
+ "scaf_step3": {
+  "it": "3 Ordine",
+  "es": "3 Orden",
+  "en": "3 Order"
+ },
+ "scaf_step4": {
+  "it": "4 Dashboard",
+  "es": "4 Panel",
+  "en": "4 Dashboard"
+ },
+ "scaf_labelw": {
+  "it": "Larghezza facciata (m) ",
+  "es": "Anchura fachada (m) ",
+  "en": "Facade width (m) "
+ },
+ "scaf_labelh": {
+  "it": "Altezza (m) ",
+  "es": "Altura (m) ",
+  "en": "Height (m) "
+ },
+ "scaf_labelc": {
+  "it": "Complessità ",
+  "es": "Complejidad ",
+  "en": "Complexity "
+ },
+ "scaf_optlow": {
+  "it": "bassa &mdash; parete piana",
+  "es": "baja &mdash; pared lisa",
+  "en": "low &mdash; flat wall"
+ },
+ "scaf_optmed": {
+  "it": "media &mdash; balconi e cornici",
+  "es": "media &mdash; balcones y cornisas",
+  "en": "medium &mdash; balconies &amp; cornices"
+ },
+ "scaf_opthigh": {
+  "it": "alta &mdash; arretramenti, tetti multipli",
+  "es": "alta &mdash; retranqueos, tejados múltiples",
+  "en": "high &mdash; setbacks, multiple roofs"
+ },
+ "scaf_cardmeas": {
+  "it": "Sup. misurata",
+  "es": "Sup. medida",
+  "en": "Measured area"
+ },
+ "scaf_cardcomplex": {
+  "it": "Complessità",
+  "es": "Complejidad",
+  "en": "Complexity"
+ },
+ "scaf_cardreal": {
+  "it": "Sup. reale (preventivo)",
+  "es": "Sup. real (presupuesto)",
+  "en": "Real area (quoted)"
+ },
+ "scaf_hint": {
+  "it": "stessa logica di ScaffoldOS: superficie misurata → complessità → superficie di preventivo",
+  "es": "misma lógica de ScaffoldOS: superficie medida → complejidad → superficie de presupuesto",
+  "en": "same logic as ScaffoldOS: measured area → complexity → quoted area"
+ },
+ "scaf_dli1": {
+  "it": "Il cliente carica foto o misure di base della facciata da coprire.",
+  "es": "El cliente sube fotos o medidas básicas de la fachada a cubrir.",
+  "en": "The client uploads photos or basic measurements of the facade to cover."
+ },
+ "scaf_dli2": {
+  "it": "Il sistema stima la superficie reale, tenendo conto di balconi, arretramenti e cornici.",
+  "es": "El sistema estima la superficie real, teniendo en cuenta balcones, retranqueos y cornisas.",
+  "en": "The system estimates the real surface, accounting for balconies, setbacks and cornices."
+ },
+ "scaf_dli3": {
+  "it": "Preventivo e ordine di lavoro vengono generati dallo stesso dato, senza ricopiarlo a mano.",
+  "es": "El presupuesto y la orden de trabajo se generan a partir del mismo dato, sin volver a copiarlo a mano.",
+  "en": "The quote and work order are generated from the same data, with no manual re-entry."
+ },
+ "scaf_dli4": {
+  "it": "Il dashboard segue ogni cantiere attivo, dal preventivo alla chiusura.",
+  "es": "El panel de control sigue cada obra activa, desde el presupuesto hasta el cierre.",
+  "en": "The dashboard tracks every active job site, from quote to close-out."
+ },
+ "scaf_note": {
+  "it": "La logica esatta di calcolo della complessità è proprietaria e resta riservata ai clienti.",
+  "es": "La lógica exacta de cálculo de la complejidad es propia y permanece reservada a los clientes.",
+  "en": "The exact complexity calculation logic is proprietary and stays confidential to clients."
+ },
+ "gest_kicker": {
+  "it": "CRM &amp; gestione opere",
+  "es": "CRM y gestión de obras",
+  "en": "CRM &amp; site management"
+ },
+ "gest_desc": {
+  "it": "CRM delle richieste e dei preventivi, unito alla gestione dei cantieri: dalla prima richiesta del cliente fino all'opera aperta, senza passare da un foglio Excel a un altro.",
+  "es": "CRM de solicitudes y presupuestos, unido a la gestión de obras: desde la primera solicitud del cliente hasta la obra abierta, sin pasar de una hoja de Excel a otra.",
+  "en": "CRM for requests and quotes, combined with site management: from the client's first request to an open job, without hopping from one spreadsheet to another."
+ },
+ "gest_li1": {
+  "it": "Pipeline richieste e preventivi in un'unica vista",
+  "es": "Pipeline de solicitudes y presupuestos en una única vista",
+  "en": "Requests and quotes pipeline in a single view"
+ },
+ "gest_li2": {
+  "it": "Stato di ogni opera, aggiornato dal cantiere",
+  "es": "Estado de cada obra, actualizado desde la propia obra",
+  "en": "Status of every job, updated from the site"
+ },
+ "gest_li3": {
+  "it": "Storico cliente consultabile in un click",
+  "es": "Historial del cliente consultable en un clic",
+  "en": "Client history available in one click"
+ },
+ "gest_mockai": {
+  "it": "CRM Richieste",
+  "es": "CRM Solicitudes",
+  "en": "CRM Requests"
+ },
+ "gest_dli1": {
+  "it": "Le richieste dei clienti entrano in un'unica pipeline, con stato sempre aggiornato.",
+  "es": "Las solicitudes de los clientes entran en una única pipeline, con estado siempre actualizado.",
+  "en": "Client requests enter a single pipeline, with status always up to date."
+ },
+ "gest_dli2": {
+  "it": "Il preventivo approvato apre il cantiere in automatico, senza ricopiare i dati.",
+  "es": "El presupuesto aprobado abre la obra automáticamente, sin volver a copiar los datos.",
+  "en": "An approved quote opens the job automatically, with no data re-entry."
+ },
+ "gest_dli3": {
+  "it": "Chi è sul cantiere aggiorna lo stato del lavoro da mobile, il CRM si aggiorna da solo.",
+  "es": "Quien está en la obra actualiza el estado del trabajo desde el móvil, el CRM se actualiza solo.",
+  "en": "Whoever is on site updates the job status from their phone, the CRM updates itself."
+ },
+ "gest_dli4": {
+  "it": "Storico completo per cliente: preventivi, opere, fatture, sempre consultabile.",
+  "es": "Historial completo por cliente: presupuestos, obras, facturas, siempre disponible.",
+  "en": "Full history per client: quotes, jobs, invoices, always available."
+ },
+ "gest_note": {
+  "it": "Le integrazioni con ERP e fatturazione sono personalizzate cliente per cliente e non sono standardizzate pubblicamente.",
+  "es": "Las integraciones con ERP y facturación se personalizan cliente por cliente y no están estandarizadas públicamente.",
+  "en": "ERP and invoicing integrations are customized client by client and aren't publicly standardized."
+ },
+ "hub_kicker": {
+  "it": "Gestione subappaltatori",
+  "es": "Gestión de subcontratistas",
+  "en": "Subcontractor management"
+ },
+ "hub_desc": {
+  "it": "Nei cantieri medio-grandi il grosso del lavoro passa da subappaltatori, spesso su più livelli. HUB centralizza chi lavora dove, con quali documenti in regola e sotto la responsabilità di chi, invece di scoprirlo quando arriva un controllo.",
+  "es": "En las obras medianas y grandes, la mayor parte del trabajo pasa por subcontratistas, a menudo en varios niveles. HUB centraliza quién trabaja dónde, con qué documentos en regla y bajo la responsabilidad de quién, en lugar de descubrirlo cuando llega una inspección.",
+  "en": "On medium and large sites, most of the work runs through subcontractors, often across several levels. HUB centralizes who works where, with which documents in order and under whose responsibility, instead of finding out when an inspection shows up."
+ },
+ "hub_li1": {
+  "it": "Elenco subappaltatori per cantiere, con stato documentale sempre aggiornato",
+  "es": "Listado de subcontratistas por obra, con estado documental siempre actualizado",
+  "en": "Subcontractor list per site, with document status always up to date"
+ },
+ "hub_li2": {
+  "it": "Catena di responsabilità tracciata, anche su più livelli di subappalto",
+  "es": "Cadena de responsabilidad trazada, incluso en varios niveles de subcontratación",
+  "en": "Chain of responsibility tracked, even across multiple subcontracting levels"
+ },
+ "hub_li3": {
+  "it": "Allarme prima della scadenza di un documento critico, non dopo",
+  "es": "Alerta antes del vencimiento de un documento crítico, no después",
+  "en": "Alert before a critical document expires, not after"
+ },
+ "hub_mockai": {
+  "it": "Subappaltatori attivi",
+  "es": "Subcontratistas activos",
+  "en": "Active subcontractors"
+ },
+ "hub_stat_ok": {
+  "it": "Documenti ok",
+  "es": "Documentación ok",
+  "en": "Docs ok"
+ },
+ "hub_stat_wait": {
+  "it": "In scadenza",
+  "es": "Por vencer",
+  "en": "Expiring"
+ },
+ "hub_stat_bad": {
+  "it": "Mancante",
+  "es": "Falta",
+  "en": "Missing"
+ },
+ "hub_dli1": {
+  "it": "Ogni subappaltatore assegnato a un cantiere viene collegato al fascicolo documentale richiesto per quel lavoro.",
+  "es": "Cada subcontratista asignado a una obra queda vinculado al expediente documental requerido para ese trabajo.",
+  "en": "Each subcontractor assigned to a site is linked to the document file required for that job."
+ },
+ "hub_dli2": {
+  "it": "Il sistema segnala i documenti in scadenza o mancanti prima che diventino un problema, non dopo.",
+  "es": "El sistema avisa de los documentos por vencer o que faltan antes de que se conviertan en un problema, no después.",
+  "en": "The system flags documents that are expiring or missing before they become a problem, not after."
+ },
+ "hub_dli3": {
+  "it": "La catena di subappalto, chi risponde a chi, resta visibile anche su più livelli.",
+  "es": "La cadena de subcontratación, quién responde ante quién, sigue siendo visible incluso en varios niveles.",
+  "en": "The subcontracting chain, who answers to whom, stays visible even across several levels."
+ },
+ "hub_dli4": {
+  "it": "Ogni impresa vede solo i subappaltatori di sua competenza, con permessi separati.",
+  "es": "Cada empresa ve solo a los subcontratistas de su competencia, con permisos separados.",
+  "en": "Each company only sees the subcontractors under its own scope, with separate permissions."
+ },
+ "hub_note": {
+  "it": "I criteri di rischio e le soglie di allarme sono configurati caso per caso e restano riservati ai clienti.",
+  "es": "Los criterios de riesgo y los umbrales de alerta se configuran caso por caso y permanecen reservados a los clientes.",
+  "en": "Risk criteria and alert thresholds are configured case by case and stay confidential to clients."
+ },
+ "cae_title": {
+  "it": "Piattaforma CAE",
+  "es": "Plataforma CAE",
+  "en": "CAE Platform"
+ },
+ "cae_kicker": {
+  "it": "Coordinamento CAE",
+  "es": "Coordinación CAE",
+  "en": "CAE coordination"
+ },
+ "cae_desc": {
+  "it": "Obralia, Nalanda, eCordina, Civit: ogni cliente impone la sua, con regole diverse. Questa demo mette lo stato di tutte in un'unica vista, invece di controllarle una per una.",
+  "es": "Obralia, Nalanda, eCordina, Civit: cada cliente impone la suya, con reglas distintas. Esta demo reúne el estado de todas en una única vista, en lugar de revisarlas una por una.",
+  "en": "Obralia, Nalanda, eCordina, Civit: every client mandates its own, with different rules. This demo brings the status of all of them into a single view, instead of checking each one separately."
+ },
+ "cae_li1": {
+  "it": "Stato documentale aggregato, piattaforma per piattaforma",
+  "es": "Estado documental agregado, plataforma por plataforma",
+  "en": "Aggregated document status, platform by platform"
+ },
+ "cae_li2": {
+  "it": "Avviso quando manca un documento richiesto da un cliente specifico",
+  "es": "Aviso cuando falta un documento exigido por un cliente concreto",
+  "en": "Alert when a document required by a specific client is missing"
+ },
+ "cae_li3": {
+  "it": "Storico di cosa è stato caricato, dove e quando",
+  "es": "Historial de qué se ha subido, dónde y cuándo",
+  "en": "History of what was uploaded, where and when"
+ },
+ "cae_mockai": {
+  "it": "Piattaforme collegate",
+  "es": "Plataformas conectadas",
+  "en": "Connected platforms"
+ },
+ "cae_stat_bad": {
+  "it": "Scaduti",
+  "es": "Caducados",
+  "en": "Expired"
+ },
+ "cae_stat_wait": {
+  "it": "Da validare",
+  "es": "Por validar",
+  "en": "Pending review"
+ },
+ "cae_stat_ok": {
+  "it": "Tutto ok",
+  "es": "Todo ok",
+  "en": "All ok"
+ },
+ "cae_dli1": {
+  "it": "Le credenziali di ogni piattaforma CAE restano quelle del cliente: il sistema legge solo lo stato.",
+  "es": "Las credenciales de cada plataforma CAE siguen siendo las del cliente: el sistema solo lee el estado.",
+  "en": "The credentials for each CAE platform stay the client's own: the system only reads the status."
+ },
+ "cae_dli2": {
+  "it": "Ogni documento mancante o in scadenza viene segnalato con la piattaforma di origine.",
+  "es": "Cada documento que falta o está por vencer se señala junto con la plataforma de origen.",
+  "en": "Every missing or expiring document is flagged along with its source platform."
+ },
+ "cae_dli3": {
+  "it": "Chi deve caricare cosa resta tracciato, evitando doppioni tra piattaforme diverse.",
+  "es": "Quién debe subir qué queda registrado, evitando duplicados entre plataformas distintas.",
+  "en": "Who needs to upload what stays tracked, avoiding duplicates across different platforms."
+ },
+ "cae_note": {
+  "it": "Le modalità tecniche di collegamento a ciascuna piattaforma CAE variano e sono concordate con il cliente.",
+  "es": "Los métodos técnicos de conexión a cada plataforma CAE varían y se acuerdan con el cliente.",
+  "en": "The technical connection method for each CAE platform varies and is agreed with the client."
+ },
+ "integ_note": {
+  "it": "<strong>Non isole a parte.</strong> Le piattaforme che costruiamo si collegano ai sistemi che l'azienda usa già, CRM, ERP e le piattaforme CAE esistenti, invece di aggiungere un altro strumento scollegato dagli altri.",
+  "es": "<strong>No son islas aparte.</strong> Las plataformas que construimos se conectan a los sistemas que la empresa ya usa, CRM, ERP y las plataformas CAE existentes, en lugar de añadir otra herramienta desconectada del resto.",
+  "en": "<strong>Not standalone islands.</strong> The platforms we build connect to the systems the company already uses, CRM, ERP and existing CAE platforms, instead of adding one more tool disconnected from the rest."
+ },
+ "clienti_eyebrow": {
+  "it": "Clienti importanti",
+  "es": "Clientes destacados",
+  "en": "Key clients"
+ },
+ "clienti_h2": {
+  "it": "Aziende che non possono permettersi di sbagliare",
+  "es": "Empresas que no pueden permitirse equivocarse",
+  "en": "Companies that can't afford to get it wrong"
+ },
+ "clienti_sub": {
+  "it": "Il sistema è stato costruito e validato dentro una multinazionale prima di essere proposto ad altri. Questi sono due esempi.",
+  "es": "El sistema se construyó y validó dentro de una multinacional antes de proponerse a otros. Estos son dos ejemplos.",
+  "en": "The system was built and validated inside a multinational before being offered to others. Here are two examples."
+ },
+ "client_acro_desc": {
+  "it": "Il cliente su cui il sistema è nato: gestione documentale, CAE e cantieri su scala multinazionale.",
+  "es": "El cliente en el que nació el sistema: gestión documental, CAE y obras a escala multinacional.",
+  "en": "The client the system was born on: document management, CAE and job sites at multinational scale."
+ },
+ "clienti_readcase": {
+  "it": "Leggi il case study",
+  "es": "Leer el caso de éxito",
+  "en": "Read the case study"
+ },
+ "client_imp_desc": {
+  "it": "Impresa generale di costruzioni. Programma di trasformazione AI su misura, reparto dopo reparto.",
+  "es": "Empresa constructora general. Programa de transformación con IA a medida, departamento por departamento.",
+  "en": "General construction company. Custom AI transformation program, department by department."
+ },
+ "case_acro_h4": {
+  "it": "Il software è nato qui",
+  "es": "El software nació aquí",
+  "en": "The software was born here"
+ },
+ "case_acro_p": {
+  "it": "Dentro EdiliziAcrobatica, Eleonora ha sviluppato il sistema che oggi è alla base di OMO Agency: da revisioni mediche, appuntamenti, assenze, corsi e documenti di sicurezza gestiti a mano, a un unico sistema digitale. Validato su scala multinazionale, prima di diventare la base per gli altri clienti.",
+  "es": "Dentro de EdiliziAcrobatica, Eleonora desarrolló el sistema que hoy es la base de OMO Agency: de revisiones médicas, citas, ausencias, cursos y documentos de seguridad gestionados a mano, a un único sistema digital. Validado a escala multinacional, antes de convertirse en la base para los demás clientes.",
+  "en": "Inside EdiliziAcrobatica, Eleonora developed the system that today is the foundation of OMO Agency: from medical check-ups, appointments, absences, courses and safety documents managed by hand, to a single digital system. Validated at multinational scale, before becoming the foundation for other clients."
+ },
+ "case_imp_h4": {
+  "it": "Un programma di trasformazione AI su misura",
+  "es": "Un programa de transformación con IA a medida",
+  "en": "A custom AI transformation program"
+ },
+ "case_imp_p": {
+  "it": "Con Imprendo S.p.A. stiamo lavorando a un programma pluriennale di adozione dell'AI, reparto dopo reparto, con formazione al personale inclusa fin dalla prima fase. Dettagli del programma riservati su richiesta del cliente.",
+  "es": "Con Imprendo S.p.A. estamos trabajando en un programa plurianual de adopción de IA, departamento por departamento, con formación del personal incluida desde la primera fase. Detalles del programa reservados a petición del cliente.",
+  "en": "With Imprendo S.p.A. we're working on a multi-year AI adoption program, department by department, with staff training included from the first phase. Program details kept confidential at the client's request."
+ },
+ "training_text": {
+  "it": "<strong>Formazione.</strong> Oltre a Imprendo, abbiamo formato il personale di altre 8 aziende italiane su AI e digitalizzazione. Per le aziende italiane, questi percorsi possono rientrare nei bandi pubblici per la formazione su intelligenza artificiale e trasformazione digitale: verifichiamo insieme l'idoneità caso per caso.",
+  "es": "<strong>Formación.</strong> Además de Imprendo, hemos formado al personal de otras 8 empresas italianas en IA y digitalización. Para las empresas italianas, estos itinerarios pueden encajar en las convocatorias públicas italianas de formación en inteligencia artificial y transformación digital: verificamos juntos la idoneidad caso por caso.",
+  "en": "<strong>Training.</strong> Beyond Imprendo, we've trained staff at 8 other Italian companies on AI and digitalization. For Italian companies, these programs can qualify for Italian public grants for AI and digital transformation training: we check eligibility together, case by case."
+ },
+ "training_cta": {
+  "it": "Come funziona il percorso",
+  "es": "Cómo funciona el itinerario",
+  "en": "How the program works"
+ },
+ "training_detailh4": {
+  "it": "Formazione e discovery, non un corso teorico",
+  "es": "Formación y discovery, no un curso teórico",
+  "en": "Training and discovery, not a theory course"
+ },
+ "training_li1": {
+  "it": "Preparazione: obiettivi, ruoli, strumenti già in uso e vincoli sui dati, decisi insieme a direzione e referenti prima di iniziare.",
+  "es": "Preparación: objetivos, roles, herramientas ya en uso y restricciones sobre los datos, decididos junto con la dirección y los responsables antes de empezar.",
+  "en": "Preparation: goals, roles, tools already in use and data constraints, agreed together with management and stakeholders before starting."
+ },
+ "training_li2": {
+  "it": "Base comune per tutti: cosa può fare l'AI nel lavoro, cosa resta alla persona, come si verifica un risultato prima di fidarsi.",
+  "es": "Base común para todos: qué puede hacer la IA en el trabajo, qué queda en manos de la persona, cómo se verifica un resultado antes de confiar en él.",
+  "en": "A common base for everyone: what AI can do in the job, what stays with the person, how to check a result before trusting it."
+ },
+ "training_li3": {
+  "it": "Laboratorio operativo con le persone giuste per ruolo: richiesta, verifica, correzione, su materiali sintetici finché non c'è autorizzazione a usare dati reali.",
+  "es": "Laboratorio operativo con las personas adecuadas por rol: solicitud, verificación, corrección, sobre materiales sintéticos hasta que haya autorización para usar datos reales.",
+  "en": "Hands-on workshop with the right people per role: request, check, correction, on synthetic material until there's authorization to use real data."
+ },
+ "training_li4": {
+  "it": "Discovery per reparto: si mappano i processi che vale davvero la pena automatizzare, con responsabili e risultati attesi, non solo un'impressione.",
+  "es": "Discovery por departamento: se mapean los procesos que realmente merece la pena automatizar, con responsables y resultados esperados, no solo una impresión.",
+  "en": "Discovery by department: mapping the processes actually worth automating, with owners and expected outcomes, not just a gut feeling."
+ },
+ "training_li5": {
+  "it": "Verifica nel lavoro a distanza di settimane: si controlla se lo strumento viene usato davvero, non solo se è piaciuto il giorno del corso.",
+  "es": "Verificación en el trabajo semanas después: se comprueba si la herramienta se usa de verdad, no solo si gustó el día del curso.",
+  "en": "Follow-up on the job weeks later: checking whether the tool is actually being used, not just whether people liked it on training day."
+ },
+ "training_note": {
+  "it": "Il percorso produce una mappa verificata delle opportunità e materiali riutilizzabili, non automazioni già pronte: ogni sviluppo successivo resta un progetto a parte, con preventivo separato.",
+  "es": "El itinerario produce un mapa verificado de oportunidades y materiales reutilizables, no automatizaciones ya listas: cada desarrollo posterior sigue siendo un proyecto aparte, con presupuesto separado.",
+  "en": "The program produces a verified map of opportunities and reusable materials, not ready-made automations: any further development remains a separate project, with its own quote."
+ },
+ "team_eyebrow": {
+  "it": "Il team",
+  "es": "El equipo",
+  "en": "The team"
+ },
+ "team_h2": {
+  "it": "Leggero per scelta, non per necessità",
+  "es": "Ligero por elección, no por necesidad",
+  "en": "Lean by choice, not necessity"
+ },
+ "team_sub": {
+  "it": "Niente organigramma gonfiato. Un nucleo piccolo, più una rete di collaboratori esterni specializzati, coordinati su ogni progetto.",
+  "es": "Nada de organigramas inflados. Un núcleo pequeño, más una red de colaboradores externos especializados, coordinados en cada proyecto.",
+  "en": "No bloated org chart. A small core, plus a network of specialized outside collaborators, coordinated on every project."
+ },
+ "team1_role": {
+  "it": "Architettura tecnica",
+  "es": "Arquitectura técnica",
+  "en": "Technical architecture"
+ },
+ "team1_desc": {
+  "it": "Collaboratore esterno che segue la parte tecnica e lo sviluppo dei progetti.",
+  "es": "Colaborador externo que se encarga de la parte técnica y el desarrollo de los proyectos.",
+  "en": "External collaborator handling the technical side and project development."
+ },
+ "team2_role": {
+  "it": "Sviluppo software",
+  "es": "Desarrollo de software",
+  "en": "Software development"
+ },
+ "team2_desc": {
+  "it": "Software house partner, Milano, per lo sviluppo delle piattaforme su misura.",
+  "es": "Software house partner, Milán, para el desarrollo de las plataformas a medida.",
+  "en": "Partner software house, Milan, for building the custom platforms."
+ },
+ "team3_role": {
+  "it": "Gestione CAE",
+  "es": "Gestión CAE",
+  "en": "CAE management"
+ },
+ "team3_desc": {
+  "it": "Un team dedicato alla gestione delle piattaforme CAE per conto dei clienti.",
+  "es": "Un equipo dedicado a la gestión de las plataformas CAE por cuenta de los clientes.",
+  "en": "A team dedicated to managing CAE platforms on behalf of clients."
+ },
+ "team_count": {
+  "it": "In totale, <b>4 persone</b> tra collaboratori esterni e assistenti dedicati.",
+  "es": "En total, <b>4 personas</b> entre colaboradores externos y asistentes dedicados.",
+  "en": "In total, <b>4 people</b> between outside collaborators and dedicated assistants."
+ },
+ "blog_eyebrow": {
+  "it": "Aggiornamenti",
+  "es": "Actualizaciones",
+  "en": "Updates"
+ },
+ "blog_h2": {
+  "it": "AI e cantieri, una volta a settimana",
+  "es": "IA y obras, una vez por semana",
+  "en": "AI and construction, once a week"
+ },
+ "blog_sub": {
+  "it": "Notizie vere sull'AI nel settore edile, con le fonti citate. Aggiornato automaticamente ogni settimana.",
+  "es": "Noticias reales sobre IA en el sector de la construcción, con las fuentes citadas. Actualizado automáticamente cada semana.",
+  "en": "Real news on AI in construction, with sources cited. Updated automatically every week."
+ },
+ "blog_langnote": {
+  "it": "",
+  "es": "Los artículos del blog se publican en italiano.",
+  "en": "Blog posts are published in Italian."
+ },
+ "blog_empty_first": {
+  "it": "Primo post in arrivo.",
+  "es": "Primer artículo en camino.",
+  "en": "First post coming soon."
+ },
+ "blog_empty_updating": {
+  "it": "Post in aggiornamento.",
+  "es": "Artículo en actualización.",
+  "en": "Post updating."
+ },
+ "quiz_eyebrow": {
+  "it": "4 domande",
+  "es": "4 preguntas",
+  "en": "4 questions"
+ },
+ "quiz_h2": {
+  "it": "Qual è il servizio giusto per la tua impresa?",
+  "es": "¿Cuál es el servicio adecuado para tu empresa?",
+  "en": "Which service is right for your company?"
+ },
+ "quiz_sub": {
+  "it": "Nessun modulo da compilare prima. Rispondi e ti diciamo subito da dove partire.",
+  "es": "Ningún formulario que rellenar antes. Responde y te decimos por dónde empezar.",
+  "en": "No form to fill out first. Answer and we'll tell you where to start."
+ },
+ "q1_qn": {
+  "it": "Domanda 1 di 4",
+  "es": "Pregunta 1 de 4",
+  "en": "Question 1 of 4"
+ },
+ "q1_h3": {
+  "it": "Qual è il problema più grande oggi?",
+  "es": "¿Cuál es el mayor problema hoy?",
+  "en": "What's the biggest problem today?"
+ },
+ "q1_opt1": {
+  "it": "Rincorriamo i documenti dei lavoratori, cantiere per cantiere",
+  "es": "Perseguimos los documentos de los trabajadores, obra por obra",
+  "en": "We're chasing worker documents, site by site"
+ },
+ "q1_opt2": {
+  "it": "Ogni piattaforma CAE ha le sue regole, ci perdiamo dietro",
+  "es": "Cada plataforma CAE tiene sus reglas, nos perdemos detrás de ellas",
+  "en": "Every CAE platform has its own rules, we get lost keeping up"
+ },
+ "q1_opt3": {
+  "it": "Non sappiamo il costo reale di un'opera finché non è finita",
+  "es": "No sabemos el coste real de una obra hasta que termina",
+  "en": "We don't know a job's real cost until it's finished"
+ },
+ "q2_qn": {
+  "it": "Domanda 2 di 4",
+  "es": "Pregunta 2 de 4",
+  "en": "Question 2 of 4"
+ },
+ "q2_h3": {
+  "it": "Chi gestisce oggi questi processi?",
+  "es": "¿Quién gestiona hoy estos procesos?",
+  "en": "Who manages these processes today?"
+ },
+ "q2_opt1": {
+  "it": "Una persona dedicata a tempo pieno, solo a quello",
+  "es": "Una persona dedicada a tiempo completo, solo a eso",
+  "en": "One person dedicated full-time, just to that"
+ },
+ "q2_opt2": {
+  "it": "Un po' tutti, senza un responsabile chiaro",
+  "es": "Un poco todos, sin un responsable claro",
+  "en": "A bit of everyone, with no clear owner"
+ },
+ "q2_opt3": {
+  "it": "Un piccolo team, ognuno col suo foglio Excel",
+  "es": "Un pequeño equipo, cada uno con su hoja de Excel",
+  "en": "A small team, each with their own spreadsheet"
+ },
+ "q3_qn": {
+  "it": "Domanda 3 di 4",
+  "es": "Pregunta 3 de 4",
+  "en": "Question 3 of 4"
+ },
+ "q3_h3": {
+  "it": "Il personale sui cantieri cambia spesso?",
+  "es": "¿El personal en las obras cambia a menudo?",
+  "en": "Does site staff change often?"
+ },
+ "q3_opt1": {
+  "it": "Sì, il turnover è alto",
+  "es": "Sí, la rotación es alta",
+  "en": "Yes, turnover is high"
+ },
+ "q3_opt2": {
+  "it": "No, il team è stabile",
+  "es": "No, el equipo es estable",
+  "en": "No, the team is stable"
+ },
+ "q3_opt3": {
+  "it": "Dipende dalla stagione dei cantieri",
+  "es": "Depende de la temporada de obras",
+  "en": "Depends on the site season"
+ },
+ "q4_qn": {
+  "it": "Domanda 4 di 4",
+  "es": "Pregunta 4 de 4",
+  "en": "Question 4 of 4"
+ },
+ "q4_h3": {
+  "it": "Cosa vi servirebbe di più, oggi?",
+  "es": "¿Qué necesitaríais más, hoy?",
+  "en": "What would help you most, today?"
+ },
+ "q4_opt1": {
+  "it": "Sapere subito quanto costa un'opera mentre è in corso",
+  "es": "Saber al momento cuánto cuesta una obra mientras está en curso",
+  "en": "Knowing a job's cost in real time while it's underway"
+ },
+ "q4_opt2": {
+  "it": "Portare l'AI nei processi, ma non sappiamo da dove iniziare",
+  "es": "Llevar la IA a los procesos, pero no sabemos por dónde empezar",
+  "en": "Bringing AI into our processes, but we don't know where to start"
+ },
+ "q4_opt3": {
+  "it": "Perdere meno tempo su documenti e scadenze",
+  "es": "Perder menos tiempo en documentos y plazos",
+  "en": "Spending less time on documents and deadlines"
+ },
+ "quiz_result_eyebrow": {
+  "it": "Il servizio più adatto",
+  "es": "El servicio más adecuado",
+  "en": "The best-fit service"
+ },
+ "quiz_cta": {
+  "it": "Parliamone",
+  "es": "Hablemos",
+  "en": "Let's talk"
+ },
+ "quiz_restart": {
+  "it": "Rifai il quiz",
+  "es": "Repetir el test",
+  "en": "Retake the quiz"
+ },
+ "contact_h2": {
+  "it": "Parliamo di come funziona davvero la tua impresa.",
+  "es": "Hablemos de cómo funciona de verdad tu empresa.",
+  "en": "Let's talk about how your company really works."
+ },
+ "contact_copy": {
+  "it": "copia",
+  "es": "copiar",
+  "en": "copy"
+ },
+ "contact_copied": {
+  "it": "copiato",
+  "es": "copiado",
+  "en": "copied"
+ },
+ "contact_wa_label": {
+  "it": "Scrivici su WhatsApp",
+  "es": "Escríbenos por WhatsApp",
+  "en": "Message us on WhatsApp"
+ },
+ "contact_wa_msg": {
+  "it": "Ciao! Ho visto il sito OMO Agency e vorrei una consulenza per la mia azienda.",
+  "es": "¡Hola! He visto la web de OMO Agency y me gustaría una consultoría para mi empresa.",
+  "en": "Hi! I saw the OMO Agency website and I'd like a consultation for my company."
+ },
+ "contact_mail_subject": {
+  "it": "Richiesta consulenza",
+  "es": "Solicitud de consultoría",
+  "en": "Consultation request"
+ },
+ "contact_mail_body": {
+  "it": "Ciao! Ho visto il sito OMO Agency e vorrei una consulenza per la mia azienda.",
+  "es": "¡Hola! He visto la web de OMO Agency y me gustaría una consultoría para mi empresa.",
+  "en": "Hi! I saw the OMO Agency website and I'd like a consultation for my company."
+ },
+ "footer_tagline": {
+  "it": "Spagna &amp; Italia &middot; edilizia &amp; costruzioni",
+  "es": "España e Italia &middot; construcción y obra civil",
+  "en": "Spain &amp; Italy &middot; construction &amp; building"
+ }
+}

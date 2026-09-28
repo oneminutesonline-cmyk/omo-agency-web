@@ -1,0 +1,34 @@
+name: Nuovo post LinkedIn
+description: Pubblica un tuo post LinkedIn sotto il blog del sito (IT, ES, EN)
+title: "[LinkedIn] "
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link del post
+      description: Da LinkedIn, tocca "Condividi" e poi "Copia link".
+      placeholder: https://lnkd.in/...
+    validations:
+      required: true
+  - type: textarea
+    id: testo
+    attributes:
+      label: Testo del post
+      description: Incolla il testo del post, così come l'hai scritto.
+    validations:
+      required: true
+  - type: textarea
+    id: foto
+    attributes:
+      label: Foto
+      description: Allega fino a 3 foto del post (tocca l'area e scegli le immagini).
+    validations:
+      required: false
+  - type: input
+    id: data
+    attributes:
+      label: Data di pubblicazione
+      description: Formato AAAA-MM-GG. Se la lasci vuota uso la data di oggi.
+      placeholder: 2026-09-26
+    validations:
+      required: false

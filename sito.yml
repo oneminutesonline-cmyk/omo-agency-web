@@ -1,0 +1,71 @@
+name: Sito OMO
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * 1"        # ogni lunedi alle 06:00 UTC
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      blog:
+        description: "Scrivi subito il post del blog della settimana"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sito-omo
+  cancel-in-progress: false
+
+jobs:
+  aggiorna-e-pubblica:
+    if: github.event_name != 'issues' || (startsWith(github.event.issue.title, '[LinkedIn]') && github.event.issue.user.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests pillow
+
+      - name: Post LinkedIn
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/linkedin_sync.py
+
+      - name: Articolo del blog della settimana
+        if: github.event_name == 'schedule' || inputs.blog
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/weekly_blog.py
+
+      - name: Salva i nuovi contenuti
+        run: |
+          git config user.name "omo-bot"
+          git config user.email "omo-bot@users.noreply.github.com"
+          git add data assets
+          git diff --cached --quiet || (git commit -m "Aggiornamento contenuti $(date +%F)" && git push)
+
+      - name: Genera il sito
+        run: python src/build.py
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
